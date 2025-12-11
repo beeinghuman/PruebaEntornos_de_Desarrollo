@@ -9,7 +9,7 @@ public class primer_programa {
 		int contador = 0;
 		contador++;
 		
-		
+		String miau = " "; 
 		
 		while (contador <= 10) {
 			System.out.println("El número es: " + contador);
